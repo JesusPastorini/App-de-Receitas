@@ -1,6 +1,6 @@
 # App de Receitas 🍔🍹
 
-![Video App de Receitas](./VID-20230619-WA0066.mp4)
+![App de Receitas](./receitas.jpeg)
 
 ## Descrição
 
@@ -13,9 +13,9 @@ Bem-vindo ao App de Receitas, um projeto incrível que permite aos usuários enc
 - Acompanhamento do progresso de preparação.
 - Diversas categorias para explorar.
 
-## Capturas de Tela
+## Video do app click para baixar
 
-![Captura de Tela](link)
+![Video app de receitas](./VID-20230619-WA0066.mp4)
 
 ## Como Usar
 
