@@ -1,6 +1,6 @@
 # App de Receitas 🍔🍹
 
-![App de Receitas](./VID-20230619-WA0066.mp4)
+![Video App de Receitas](./VID-20230619-WA0066.mp4)
 
 ## Descrição
 
