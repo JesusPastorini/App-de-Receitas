@@ -4,7 +4,9 @@
 
 ## Descrição
 
-Bem-vindo ao App de Receitas, um projeto incrível que permite aos usuários encontrar, explorar e salvar suas receitas favoritas de comidas e bebidas. Este aplicativo é desenvolvido com as mais modernas tecnologias do ecossistema React, incluindo Hooks e Context API.
+Bem-vindo ao App de Receitas Cookbook, um projeto incrível que permite aos usuários encontrar, explorar e salvar suas receitas favoritas de comidas e bebidas. Este aplicativo é desenvolvido com as mais modernas tecnologias do ecossistema React, incluindo Hooks e Context API.
+
+## App Online aqui: (https://app-de-receitas-rosy.vercel.app/meals)
 
 ## Funcionalidades
 
