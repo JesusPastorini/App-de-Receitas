@@ -8,6 +8,8 @@ Bem-vindo ao App de Receitas Cookbook, um projeto incr√≠vel que permite aos usu√
 
 ## App Online aqui: (https://app-de-receitas-rosy.vercel.app/meals)
 
+## Figma : (https://www.figma.com/design/9WXNFMewKRBC5ZawU1EXYG/[Projeto][Frontend]-Recipes-App?node-id=0-1&t=7k5AstVbv4yBA0BR-0)
+
 ## Funcionalidades
 
 - Pesquisa e filtragem de receitas.
