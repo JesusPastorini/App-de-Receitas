@@ -30,7 +30,6 @@ Bem-vindo ao App de Receitas Cookbook, um projeto incr√≠vel que permite aos usu√
 ## Tecnologias Utilizadas
 
 - React
-- Redux
 - Context API
 - Cypress (para testes)
 - E muitas outras...
